@@ -2,7 +2,7 @@
 Banker’s Algorithm for deadlock avoidance
 
 ## Description
-This project implements the Banker's Algorithm, The program reads the system state from an input file and determines whether the system is in a safe state. If the system is safe, it will prints out a safe sequence of process.
+This project implements the Banker's Algorithm, The program reads the system state from an input file and determines whether the system is in a safe state. If the system is safe, it will print out a safe sequence of processes.
 
 ## Compilation and Execution
 This program is written in C++ and can be compiled and run in a Linux environment.
