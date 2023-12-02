@@ -12,5 +12,5 @@ To compile the program, just need to put input.txt file and the bankers.cpp file
 Here is a example:
     1. Save input.txt and bankers.cpp to the desktop in a Linux environment.
     2. Open the terminal and type: cd ~/Desktop
-                                   g++ -o bankers bankers.cpp
-                                   ./bankers
+                                   /ng++ -o bankers bankers.cpp
+                                   /n./bankers
